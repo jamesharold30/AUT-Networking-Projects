@@ -111,4 +111,5 @@ your group.
 - Key benefits
   <img width="665" height="378" alt="image" src="https://github.com/user-attachments/assets/4738ebca-4bab-45c1-92e8-3052655a52a8" />
 
+<img width="1433" height="327" alt="image" src="https://github.com/user-attachments/assets/a8e472e1-615d-41a6-a906-0cdb23a765d4" />
 
