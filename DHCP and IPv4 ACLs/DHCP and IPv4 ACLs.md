@@ -1,4 +1,4 @@
-# Lab 01 — VLSM IPv4 and IPv6
+# Lab 02 — DHCP and IPv4 ACLs
 
 
 ## Objective
