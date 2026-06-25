@@ -27,13 +27,21 @@ After completing this lab, I am able to:
 ## Scenario
 
 •	An organisation has been allocated a single IPv4 network and an IPv6 prefix and must divide these address spaces to support multiple networks with different host requirements.
+
 •	To maximise address efficiency, the network administrator must use Variable Length Subnet Masking (VLSM) for IPv4 and appropriate subnetting techniques for IPv6.
+
 •	In this lab, you will:
+
 •	Subnet an IPv4 address block using VLSM based on specific host requirements
+
 •	Create multiple IPv6 subnets from a given IPv6 prefix
+
 •	Assign IP addresses to network devices
+
 •	Implement the network using Cisco Packet Tracer
+
 •	Verify connectivity using IPv4 and IPv6
+
 •	No routing protocols are required, as all networks are directly connected.
 
 ## Requirements
