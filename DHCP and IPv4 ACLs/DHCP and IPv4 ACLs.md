@@ -27,8 +27,6 @@ Design the network topology using Cisco packet tracer. The network consists of:
 
 •	One switch (S1)
 
-•	Three LANs
-
 •	Multiple end devices
 
 All devices are properly connected.
