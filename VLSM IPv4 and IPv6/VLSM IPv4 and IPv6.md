@@ -4,11 +4,17 @@
 ## Objective
 In this lab, I have designed and implemented an efficient IP addressing scheme using Variable Length Subnet Masking (VLSM) for both IPv4 and IPv6 networks.
 After completing this lab, I am able to:
+
 •	Analyse network requirements to determine appropriate subnet sizes
+
 •	Apply VLSM techniques to subdivide an IPv4 address space
+
 •	Assign IPv4 and IPv6 addresses to network devices
+
 •	Configure IPv4 and IPv6 addresses on routers, switches, and hosts
+
 •	Verify network connectivity using Cisco Packet Tracer and IOS commands
+
 
 
 ---
