@@ -8,9 +8,12 @@ Hands-on experience in VLSM IPv4 & IPv6, DHCP & IPv4 ACLs, and VLAN segmentation
 # Goals
 - Build practical networking skills
 - Practice VLAN segmenting, ACLs, IPv4 & v6, and DHCP.
+- Design Network and Risk Assessment
 - Document network designs
 
 # Lab Index
+
+Case Study - Campbell and Starr Bakers (Network Diagram, Risk Assessment, and Solutions)
 
 Lab 01 - VLSM IPv4 and IPv6 | Accomplished
 
