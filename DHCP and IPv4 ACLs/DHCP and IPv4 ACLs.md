@@ -22,6 +22,7 @@ Upon completion, I am able to:
 
 ## Topology
 Design the network topology using Cisco packet tracer. The network consists of:
+
 •	One router (R1)
 
 •	One switch (S1)
